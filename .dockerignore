@@ -1,0 +1,9 @@
+node_modules
+dist
+.git
+.gitignore
+Dockerfile
+
+# Ignore environment configuration files that might contain sensitive information
+.env
+.env.*
