@@ -3,7 +3,7 @@ dist
 .git
 .gitignore
 Dockerfile
-
-# Ignore environment configuration files that might contain sensitive information
+docker-compose.yml
+npm-debug.log
 .env
-.env.*
+.github
